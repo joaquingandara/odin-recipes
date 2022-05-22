@@ -1,3 +1,2 @@
 # odin-recipes 
-Pagina web simple para recetas de cocina.
-La idea es practicar un poco de html basico.
+Simple web page of food recipe. The idea of this page is practica some basic html.
